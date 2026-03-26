@@ -12,8 +12,9 @@ In this lab, you learned about the basic building block of sequential circuits: 
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-
+nikola hodson , cammron bannon 
 ## Summary
+in this lab we learned how to code latches and how to use them in creating memory systems, we also learned how to code a 4-byte memory system.
 
 ## Lab Questions
 

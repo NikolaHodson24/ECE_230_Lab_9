@@ -20,6 +20,9 @@ in this lab we learned how to code latches and how to use them in creating memor
 
 ###  Why can we not just use structural Verilog to implement latches?
 
-### What is the meaning of always @(*) in a sensitivity block?
+because the value of the output is only supposed to change when the enable input is active, so it stays inactive when certain conditions aren't met
 
+### What is the meaning of always @(*) in a sensitivity block?
+it makes the circut change outputs when the variables in the block change 
 ### What importance is memory to digital circuits?
+ the ability to store values
